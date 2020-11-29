@@ -1,4 +1,4 @@
-"Latest: Time (s)","Latest: Position (m)","Latest: Velocity (m/s)","Latest: Acceleration (m/s²)"
+"Time","Position","Velocity","Acceleration"
 0.05,0.0492205,0.0851783333333,0.522069290123
 0.1,0.052136,0.11533375,0.326617515432
 0.15,0.059682,0.139200833333,-0.0975168055556
